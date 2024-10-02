@@ -9,11 +9,11 @@ The Pima Indian Diabetes Dataset, originally from the National Institute of Diab
 📌 Python v 3.7
 
 📌 Libraries used:
+  pandas
+  numpy
+  seaborn
+  matplotlib.pyplot
+  sklearn
+  statsmodels
 
-pandas
-numpy
-seaborn
-matplotlib.pyplot
-sklearn
-statsmodels
 📌 Jupyter notebook was used.
